@@ -8,5 +8,3 @@
 1. npm install
 2. npm run build
 3. npm run start
-
-Приложение доступно для просмотра на сайте form-app.iliamashkov.me
